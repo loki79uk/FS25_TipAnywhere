@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<l10n>
+	<texts>
+		<text name="menu_TipAnywhere_TITLE" text="TRABALHANDO EM QUALQUER LUGAR"/>
+		
+		<text name="setting_tipanywhere_BALER" text="Enfardamento"/>
+		<text name="tooltip_tipanywhere_BALER" text="Permita que as enfardadeiras operem em terras sem dono."/>
+		
+		<text name="setting_tipanywhere_COMBINECHOPPER" text="colhendo"/>
+		<text name="tooltip_tipanywhere_COMBINECHOPPER" text="Permitir que as colheitadeiras operem em terras sem dono."/>
+		
+		<text name="setting_tipanywhere_COMBINESWATH" text="Enfaixamento"/>
+		<text name="tooltip_tipanywhere_COMBINESWATH" text="Permitir faixas de colheitadeiras em terras sem dono."/>
+		
+		<text name="setting_tipanywhere_CULTIVATOR" text="Cultivando"/>
+		<text name="tooltip_tipanywhere_CULTIVATOR" text="Permitir que os cultivadores operem em terras sem dono."/>
+		
+		<text name="setting_tipanywhere_CUTTER" text="Colhendo de forragem"/>
+		<text name="tooltip_tipanywhere_CUTTER" text="Permitir que as colheitadeiras de forragem operem em terras sem dono."/>
+		
+		<text name="setting_tipanywhere_FORAGEWAGON" text="Carregadores de forragem"/>
+		<text name="tooltip_tipanywhere_FORAGEWAGON" text="Permitir a coleta de materiais soltos com um carregador de forragem em terras sem dono."/>
+		
+		<text name="setting_tipanywhere_FRUITPREPARER" text="Poda"/>
+		<text name="tooltip_tipanywhere_FRUITPREPARER" text="Permitir a poda de plantações de videiras em terras sem dono."/>
+		
+		<text name="setting_tipanywhere_MULCHER" text="Triturando"/>
+		<text name="tooltip_tipanywhere_MULCHER" text="Permita que os trituradores operem em terras sem dono."/>
+		
+		<text name="setting_tipanywhere_MOWER" text="Corte de grama"/>
+		<text name="tooltip_tipanywhere_MOWER" text="Permitir o corte de grama em terrenos sem dono."/>
+		
+		<text name="setting_tipanywhere_PLOW" text="Arando"/>
+		<text name="tooltip_tipanywhere_PLOW" text="Permitir que os arados operem em terras sem dono."/>
+		
+		<text name="setting_tipanywhere_RIDGEMARKER" text="Marcação de cumeeira"/>
+		<text name="tooltip_tipanywhere_RIDGEMARKER" text="Permitir a marcação de cumeeira em terras sem dono."/>
+		
+		<text name="setting_tipanywhere_ROLLER" text="Rolos"/>
+		<text name="tooltip_tipanywhere_ROLLER" text="Permitir que os compactadores operem em terrenos sem dono."/>
+		
+		<text name="setting_tipanywhere_SALTSPREADER" text="Espalhamento de sal"/>
+		<text name="tooltip_tipanywhere_SALTSPREADER" text="Permitir que os espalhadores de sal operem em terrenos sem dono."/>
+		
+		<text name="setting_tipanywhere_SOWINGMACHINE" text="Semeadura"/>
+		<text name="tooltip_tipanywhere_SOWINGMACHINE" text="Permitir a semeadura ou o plantio de culturas em terras sem dono."/>
+		
+		<text name="setting_tipanywhere_SPRAYER" text="Pulverização	"/>
+		<text name="tooltip_tipanywhere_SPRAYER" text="Permitir a pulverização de fertilizantes ou herbicidas em terras sem dono."/>
+		
+		<text name="setting_tipanywhere_STONEPICKER" text="Recolhedores de pedra"/>
+		<text name="tooltip_tipanywhere_STONEPICKER" text="Permitir que os recolhedores de pedras operem em terras sem dono."/>
+		
+		<text name="setting_tipanywhere_STUMPCUTTER" text="Corte de tocos"/>
+		<text name="tooltip_tipanywhere_STUMPCUTTER" text="Permitir que cortadores de tocos operem em terrenos sem dono."/>
+		
+		<text name="setting_tipanywhere_TEDDER" text="Espalhadores de Estrume"/>
+		<text name="tooltip_tipanywhere_TEDDER" text="Permitir que os espalhadores de estrume operem em terras sem dono."/>
+		
+		<text name="setting_tipanywhere_WEEDER" text="Capinar"/>
+		<text name="tooltip_tipanywhere_WEEDER" text="Permitir que os capinadores operem em terras sem dono."/>
+		
+		<text name="setting_tipanywhere_WINDROWER" text="Enleiramento"/>
+		<text name="tooltip_tipanywhere_WINDROWER" text="Permitir que os enleiradores operem em terras sem dono."/>
+		
+		<text name="setting_tipanywhere_DEFAULT" text="Padrão"/>
+		<text name="tooltip_tipanywhere_DEFAULT" text="Permitir o tipo de área de trabalho padrão em terras sem dono."/>
+		
+		<text name="setting_tipanywhere_AUXILIARY" text="Auxiliar"/>
+		<text name="tooltip_tipanywhere_AUXILIARY" text="Permitir o tipo de área de trabalho auxiliar em terrenos sem dono."/>
+
+    </texts>
+</l10n>

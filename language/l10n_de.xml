@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<l10n>
+	<texts>
+		<text name="menu_TipAnywhere_TITLE" text="Überall Abkippen"/>
+		
+		<text name="setting_tipanywhere_BALER" text="Ballen pressen"/>
+		<text name="tooltip_tipanywhere_BALER" text="Ballen pressen auf fremdem Land zulassen."/>
+		
+		<text name="setting_tipanywhere_COMBINECHOPPER" text="Dreschen"/>
+		<text name="tooltip_tipanywhere_COMBINECHOPPER" text="Dreschen auf fremdem Land zulassen."/>
+		
+		<text name="setting_tipanywhere_COMBINESWATH" text="Schwadablage (Mähdrescher)"/>
+		<text name="tooltip_tipanywhere_COMBINESWATH" text="Schwadablage auf fremdem Land zulassen."/>
+		
+		<text name="setting_tipanywhere_CULTIVATOR" text="Grubbern"/>
+		<text name="tooltip_tipanywhere_CULTIVATOR" text="Grubbern auf fremdem Land zulassen."/>
+		
+		<text name="setting_tipanywhere_CUTTER" text="Feldhäcksler"/>
+		<text name="tooltip_tipanywhere_CUTTER" text="Häckseln auf fremdem Land zulassen."/>
+		
+		<text name="setting_tipanywhere_FORAGEWAGON" text="Ladewagen"/>
+		<text name="tooltip_tipanywhere_FORAGEWAGON" text="Einsammeln per Ladewagen auf fremdem Land zulassen."/>
+		
+		<text name="setting_tipanywhere_FRUITPREPARER" text="Rebenbeschnitt"/>
+		<text name="tooltip_tipanywhere_FRUITPREPARER" text="Rebschnitt auf fremdem Land zulassen."/>
+		
+		<text name="setting_tipanywhere_MULCHER" text="Mulchen"/>
+		<text name="tooltip_tipanywhere_MULCHER" text="Mulchen auf fremdem Land zulassen."/>
+		
+		<text name="setting_tipanywhere_MOWER" text="Mähen"/>
+		<text name="tooltip_tipanywhere_MOWER" text="Grasschnitt auf fremdem Land zulassen."/>
+		
+		<text name="setting_tipanywhere_PLOW" text="Pflügen"/>
+		<text name="tooltip_tipanywhere_PLOW" text="Pflügen auf fremdem Land zulassen."/>
+		
+		<text name="setting_tipanywhere_RIDGEMARKER" text="Spurreißer"/>
+		<text name="tooltip_tipanywhere_RIDGEMARKER" text="Spurreißen auf fremdem Land zulassen."/>
+		
+		<text name="setting_tipanywhere_ROLLER" text="Walzen (Steine)"/>
+		<text name="tooltip_tipanywhere_ROLLER" text="Walzen von Steinen auf fremdem Land zulassen."/>
+		
+		<text name="setting_tipanywhere_SALTSPREADER" text="Salzstreuer"/>
+		<text name="tooltip_tipanywhere_SALTSPREADER" text="Salzstreuen auf fremdem Land zulassen."/>
+		
+		<text name="setting_tipanywhere_SOWINGMACHINE" text="Ansäen/Anpflanzen"/>
+		<text name="tooltip_tipanywhere_SOWINGMACHINE" text="Ansäen/Anpflanzen auf fremdem Land erlauben."/>
+		
+		<text name="setting_tipanywhere_SPRAYER" text="Düngen/Spritzen"/>
+		<text name="tooltip_tipanywhere_SPRAYER" text="Flüssigdünger/Herbizid Ausbringung auf fremdem Land erlauben."/>
+		
+		<text name="setting_tipanywhere_STONEPICKER" text="Steinsammler"/>
+		<text name="tooltip_tipanywhere_STONEPICKER" text="Steine sammelnb auf fremdem Land erlauben."/>
+		
+		<text name="setting_tipanywhere_STUMPCUTTER" text="Stumpenfräse"/>
+		<text name="tooltip_tipanywhere_STUMPCUTTER" text="Baumstümpfe entfernen auf fremdem Land zulassen."/>
+		
+		<text name="setting_tipanywhere_TEDDER" text="Zettern"/>
+		<text name="tooltip_tipanywhere_TEDDER" text="Zettern auf fremdem Land erlauben."/>
+		
+		<text name="setting_tipanywhere_WEEDER" text="Striegeln"/>
+		<text name="tooltip_tipanywhere_WEEDER" text="Striegeln auf fremdem Land erlauben."/>
+		
+		<text name="setting_tipanywhere_WINDROWER" text="Schwaden"/>
+		<text name="tooltip_tipanywhere_WINDROWER" text="Schwaden auf fremdem Land erlauben."/>
+		
+		<text name="setting_tipanywhere_DEFAULT" text="Standard"/>
+		<text name="tooltip_tipanywhere_DEFAULT" text="Standard Arbeitsbereich auf fremdem Land zulassen."/>
+		
+		<text name="setting_tipanywhere_AUXILIARY" text="Unterstützung"/>
+		<text name="tooltip_tipanywhere_AUXILIARY" text="ünterstützenden Arbeitsbereich auf fremdem Land zulassen."/>
+
+    </texts>
+</l10n>

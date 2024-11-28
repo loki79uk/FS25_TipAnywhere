@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<l10n>
+	<texts>
+		<text name="menu_TipAnywhere_TITLE" text="Travailler partout"/>
+		
+		<text name="setting_tipanywhere_BALER" text="Presses"/>
+		<text name="tooltip_tipanywhere_BALER" text="Utilisation des presses sur des terrains non possédés."/>
+		
+		<text name="setting_tipanywhere_COMBINECHOPPER" text="Moissonneuses"/>
+		<text name="tooltip_tipanywhere_COMBINECHOPPER" text="Utilisation des moissonneuses batteuses sur des terrains non possédés."/>
+		
+		<text name="setting_tipanywhere_COMBINESWATH" text="Andain de paille"/>
+		<text name="tooltip_tipanywhere_COMBINESWATH" text="Autorise la création d'andains de paille sur des terrains non possédés."/>
+		
+		<text name="setting_tipanywhere_CULTIVATOR" text="Cultivateurs"/>
+		<text name="tooltip_tipanywhere_CULTIVATOR" text="Autorise les cultivateurs sur des terrains non possédés."/>
+		
+		<text name="setting_tipanywhere_CUTTER" text="Ensileuses"/>
+		<text name="tooltip_tipanywhere_CUTTER" text="Autorise les ensileuses sur des terrains non possédés."/>
+		
+		<text name="setting_tipanywhere_FORAGEWAGON" text="Autochargeuses"/>
+		<text name="tooltip_tipanywhere_FORAGEWAGON" text="Autorise les autochargeuses sur des terrains non possédés."/>
+		
+		<text name="setting_tipanywhere_FRUITPREPARER" text="Taille"/>
+		<text name="tooltip_tipanywhere_FRUITPREPARER" text="Autorise la taille sur des vignes non possédées."/>
+		
+		<text name="setting_tipanywhere_MULCHER" text="Broyage"/>
+		<text name="tooltip_tipanywhere_MULCHER" text="Autorise les broyeurs sur des terrains non possédés."/>
+		
+		<text name="setting_tipanywhere_MOWER" text="Tonte"/>
+		<text name="tooltip_tipanywhere_MOWER" text="Autorise la tonte sur des terrains non possédés."/>
+		
+		<text name="setting_tipanywhere_PLOW" text="Labour"/>
+		<text name="tooltip_tipanywhere_PLOW" text="Autorise les charrues sur des terrains non possédés."/>
+		
+		<text name="setting_tipanywhere_RIDGEMARKER" text="Traceurs"/>
+		<text name="tooltip_tipanywhere_RIDGEMARKER" text="Autorise les traceurs des terrains non possédés."/>
+		
+		<text name="setting_tipanywhere_ROLLER" text="Compactage"/>
+		<text name="tooltip_tipanywhere_ROLLER" text="Autorise les rouleaux sur des terrains non possédés."/>
+		
+		<text name="setting_tipanywhere_SALTSPREADER" text="Salage"/>
+		<text name="tooltip_tipanywhere_SALTSPREADER" text="Autorise le salage sur des terrains non possédés.."/>
+		
+		<text name="setting_tipanywhere_SOWINGMACHINE" text="Semis"/>
+		<text name="tooltip_tipanywhere_SOWINGMACHINE" text="Autorise les semoirs et planteuses sur des terrains non possédés."/>
+		
+		<text name="setting_tipanywhere_SPRAYER" text="Sulfatage"/>
+		<text name="tooltip_tipanywhere_SPRAYER" text="Autorise le sulfatage d'engrais ou d'herbicide sur des terrains non possédés.."/>
+		
+		<text name="setting_tipanywhere_STONEPICKER" text="Epierrage"/>
+		<text name="tooltip_tipanywhere_STONEPICKER" text="Autorise la collecte des pierres sur des terrains non possédés."/>
+		
+		<text name="setting_tipanywhere_STUMPCUTTER" text="Désouchage"/>
+		<text name="tooltip_tipanywhere_STUMPCUTTER" text="Autorise le désouchage sur des terrains non possédés."/>
+		
+		<text name="setting_tipanywhere_TEDDER" text="Fanage"/>
+		<text name="tooltip_tipanywhere_TEDDER" text="Autorise les faneuses sur des terrains non possédés."/>
+		
+		<text name="setting_tipanywhere_WEEDER" text="Desherbage"/>
+		<text name="tooltip_tipanywhere_WEEDER" text="Autorise les herses et houes rotatives sur des terrains non possédés."/>
+		
+		<text name="setting_tipanywhere_WINDROWER" text="Andainage"/>
+		<text name="tooltip_tipanywhere_WINDROWER" text="Autorise les andaineuses sur des terrains non possédés."/>
+		
+		<text name="setting_tipanywhere_DEFAULT" text="Par défaut"/>
+		<text name="tooltip_tipanywhere_DEFAULT" text="Autorise les travaux par défaut sur des terrains non possédés."/>
+		
+		<text name="setting_tipanywhere_AUXILIARY" text="Auxiliaires"/>
+		<text name="tooltip_tipanywhere_AUXILIARY" text="Autorise les travaux auxiliaires sur des terrains non possédés."/>
+
+    </texts>
+</l10n>

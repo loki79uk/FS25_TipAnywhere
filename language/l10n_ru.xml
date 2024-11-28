@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<l10n>
+	<translationContributors>nagor</translationContributors>
+	<texts>
+		<text name="menu_TipAnywhere_TITLE" text="Действовать везде"/>
+		
+		<text name="setting_tipanywhere_BALER" text="Тюковка"/>
+		<text name="tooltip_tipanywhere_BALER" text="Разрешить пресс-подборщикам работать на чужой земле."/>
+		
+		<text name="setting_tipanywhere_COMBINECHOPPER" text="Сбор урожая"/>
+		<text name="tooltip_tipanywhere_COMBINECHOPPER" text="Разрешить комбайнам работать на чужой земле."/>
+		
+		<text name="setting_tipanywhere_COMBINESWATH" text="Создание валков"/>
+		<text name="tooltip_tipanywhere_COMBINESWATH" text="Разрешить комбайнам создавать валки на чужой земле."/>
+		
+		<text name="setting_tipanywhere_CULTIVATOR" text="Культивация"/>
+		<text name="tooltip_tipanywhere_CULTIVATOR" text="Разрешить культивацию на чужой земле."/>
+		
+		<text name="setting_tipanywhere_CUTTER" text="Заготовка кормов"/>
+		<text name="tooltip_tipanywhere_CUTTER" text="Разрешить кормоуборочным комбайнам работать на чужой земле."/>
+		
+		<text name="setting_tipanywhere_FORAGEWAGON" text="Подборка"/>
+		<text name="tooltip_tipanywhere_FORAGEWAGON" text="Разрешить фуражным прицепам работать на чужой земле."/>
+		
+		<text name="setting_tipanywhere_FRUITPREPARER" text="Подрезка лоз"/>
+		<text name="tooltip_tipanywhere_FRUITPREPARER" text="Разрешить обрезку виноградников на чужой земле."/>
+		
+		<text name="setting_tipanywhere_MULCHER" text="Мульчирование"/>
+		<text name="tooltip_tipanywhere_MULCHER" text="Разрешить мульчирование на чужой земле."/>
+		
+		<text name="setting_tipanywhere_MOWER" text="Покос"/>
+		<text name="tooltip_tipanywhere_MOWER" text="Разрешить косить траву на чужой земле."/>
+		
+		<text name="setting_tipanywhere_PLOW" text="Вспашка"/>
+		<text name="tooltip_tipanywhere_PLOW" text="Разрешить пахать на чужой земле."/>
+		
+		<text name="setting_tipanywhere_RIDGEMARKER" text="Маркировка"/>
+		<text name="tooltip_tipanywhere_RIDGEMARKER" text="Разрешить маркировку на чужой земле."/>
+		
+		<text name="setting_tipanywhere_ROLLER" text="Прикатывание"/>
+		<text name="tooltip_tipanywhere_ROLLER" text="Разрешить прикатывание на чужой земле."/>
+		
+		<text name="setting_tipanywhere_SALTSPREADER" text="Посыпка солью"/>
+		<text name="tooltip_tipanywhere_SALTSPREADER" text="Разрешить разбрасывателям соли работать на чужой земле."/>
+		
+		<text name="setting_tipanywhere_SOWINGMACHINE" text="Посев"/>
+		<text name="tooltip_tipanywhere_SOWINGMACHINE" text="Разрешить посев сельскохозкультур на чужой земле."/>
+		
+		<text name="setting_tipanywhere_SPRAYER" text="Опрыскивание"/>
+		<text name="tooltip_tipanywhere_SPRAYER" text="Разрешить распыление удобрений или гербицидов на чужой земле."/>
+		
+		<text name="setting_tipanywhere_STONEPICKER" text="Сбор камней"/>
+		<text name="tooltip_tipanywhere_STONEPICKER" text="Разрешить сборщикам камней работать на чужой земле."/>
+		
+		<text name="setting_tipanywhere_STUMPCUTTER" text="Вырубка пней"/>
+		<text name="tooltip_tipanywhere_STUMPCUTTER" text="Разрешить корчевателям пней работать на чужой земле."/>
+		
+		<text name="setting_tipanywhere_TEDDER" text="Ворошение"/>
+		<text name="tooltip_tipanywhere_TEDDER" text="Разрешить ворошилкам работать на чужой земле."/>
+		
+		<text name="setting_tipanywhere_WEEDER" text="Прополка"/>
+		<text name="tooltip_tipanywhere_WEEDER" text="Разрешить полольникам работать на чужой земле."/>
+		
+		<text name="setting_tipanywhere_WINDROWER" text="Валкование"/>
+		<text name="tooltip_tipanywhere_WINDROWER" text="Разрешить валкователям работать на чужой земле."/>
+		
+		<text name="setting_tipanywhere_DEFAULT" text="Стандартный"/>
+		<text name="tooltip_tipanywhere_DEFAULT" text="Разрешить стандартный тип рабочей зоны на чужой земле."/>
+		
+		<text name="setting_tipanywhere_AUXILIARY" text="Вспомогательный"/>
+		<text name="tooltip_tipanywhere_AUXILIARY" text="Разрешить вспомогательный тип рабочей зоны на чужой земле."/>
+
+    </texts>
+</l10n>
