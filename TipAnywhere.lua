@@ -277,6 +277,21 @@ function TipAnywhere:dischargeableGetCanDischargeToLand(superFunc, dischargeNode
 	if dischargeNode == nil then
 		return false
 	end
+
+	if g_densityMapHeightManager.tipCollisionMap ~= nil then
+
+		if TipAnywhere.tip then
+			g_densityMapHeightManager.tipCollisionMask = CollisionFlag.PLAYER
+		else
+			g_densityMapHeightManager.tipCollisionMask = CollisionFlag.GROUND_TIP_BLOCKING
+		end
+		
+		local d = 5
+		local info = dischargeNode.info
+		local x, _, z = getWorldTranslation(info.node)
+		g_densityMapHeightManager:updateCollisionMap(x-d, z-d, x+d, z+d)
+	end
+		
 	return TipAnywhere.tip
 end
 

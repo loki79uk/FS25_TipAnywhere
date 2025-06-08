@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" standalone="no" ?>
-<modDesc descVersion="93">
+<modDesc descVersion="99">
 
     <author>loki_79</author>
-    <version>1.0.0.0</version>
+    <version>1.0.1.0</version>
 	
     <title>
         <en>Tip Anywhere</en>
@@ -15,21 +15,35 @@
     <description>
 <en><![CDATA[This mod allows all players to tip and shovel loose fill types anywhere on the map, including on NPC and unowned land. There are further settings in the general options page that allow bailers, tedders, windrowers, forage wagons and mowers to operate on unowned land. Optional field work permissions are also applied during contract missions.
 
+Changelog:
+v1.0.1.0 - Allow tipping inside buildings
+
 GitHub-Link: https://github.com/loki79uk/FS25_TipAnywhere
 ]]>
 </en>
 
 <de><![CDATA[Dieser Mod erlaubt es allen Spielern lose Schüttgüter überall auf der Karte abzukippen und aufzunehmen, auch auf NPC- und unbesetztem Land. Es gibt weitere Einstellungen auf der Seite mit den allgemeinen Optionen, die es erlauben dass Ballenpressen, Wender, Schwader, Ladewagen und Mähwerke ebenfalls auf nicht eigenem Land arbeiten. Optionale Feldarbeitsgenehmigungen werden auch bei Vertragsmissionen angewendet.
+
+Changelog:
+v1.0.1.0 - Kippen innerhalb von Gebäuden zulassen
+
+GitHub-Link: https://github.com/loki79uk/FS25_TipAnywhere
 ]]>
 </de>
 
 <fr><![CDATA[Ce mod permet à tous les joueurs de travailler, déverser et ramasser des matériaux en vrac n'importe où sur la carte, y compris sur des terres non possèdées ou appartenants à des PNJ. Il existe d'autres paramètres sur la page des options générales qui permettent aux presses, aux faneuses, aux andaineurs, aux autochargeuses et aux faucheuses de fonctionner également sur des terres non possédées. Des autorisations facultatives de travail sur le terrain sont également appliquées lors des missions contractuelles.
+
+Changelog:
+v1.0.1.0 - Allow tipping inside buildings
 
 GitHub-Link: https://github.com/loki79uk/FS25_TipAnywhere
 ]]>
 </fr>
 
 <br><![CDATA[Este mod permite que todos os jogadores derrubem e removam tipos de aterro soltos em qualquer lugar do mapa, incluindo NPC e terrenos sem dono. Existem outras configurações na página de opções gerais que permitem que enfardadores, espalhadores de estrume, enleiradores, carregador de forragem e cortadores de grama operem em terrenos não proprietários. As permissões de trabalho de campo opcionais também são aplicadas durante as missões contratadas.
+
+Changelog:
+v1.0.1.0 - Allow tipping inside buildings
 
 GitHub-Link: https://github.com/loki79uk/FS25_TipAnywhere
 ]]>
