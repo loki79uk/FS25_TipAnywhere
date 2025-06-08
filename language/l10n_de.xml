@@ -68,6 +68,15 @@
 		
 		<text name="setting_tipanywhere_AUXILIARY" text="Unterstützung"/>
 		<text name="tooltip_tipanywhere_AUXILIARY" text="ünterstützenden Arbeitsbereich auf fremdem Land zulassen."/>
+		
+        <text name="setting_tipanywhere_HAULMDROP" text="Krautabwurf"/>
+        <text name="tooltip_tipanywhere_HAULMDROP" text="Fallen lassen von Kraut auf fremdem Land zulassen."/>
+        
+        <text name="setting_tipanywhere_PLOWSHARE" text="Pflugschar"/>
+        <text name="tooltip_tipanywhere_PLOWSHARE" text="Pflugschar-Arbeitsbereiche auf fremdem Land zulassen."/>
+        
+        <text name="setting_tipanywhere_RIDGEFORMER" text="Dammfräse"/>
+        <text name="tooltip_tipanywhere_RIDGEFORMER" text="Dammfräsen auf fremdem Land zulassen."/>
 
     </texts>
 </l10n>

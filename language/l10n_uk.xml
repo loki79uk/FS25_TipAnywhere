@@ -77,6 +77,6 @@
 		
 		<text name="setting_tipanywhere_RIDGEFORMER" text="Ridge Former"/>
 		<text name="tooltip_tipanywhere_RIDGEFORMER" text="Allow ridge forming on unowned land."/>
-
+	
     </texts>
 </l10n>

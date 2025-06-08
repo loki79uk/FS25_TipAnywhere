@@ -2,72 +2,81 @@
 <l10n>
 	<texts>
 		<text name="menu_TipAnywhere_TITLE" text="TIP ANYWHERE"/>
-		
-		<text name="setting_tipanywhere_BALER" text="Baling"/>
-		<text name="tooltip_tipanywhere_BALER" text="Allow balers to operate on unowned land."/>
-		
-		<text name="setting_tipanywhere_COMBINECHOPPER" text="Harvesting"/>
-		<text name="tooltip_tipanywhere_COMBINECHOPPER" text="Allow combine harvesters to operate on unowned land."/>
-		
-		<text name="setting_tipanywhere_COMBINESWATH" text="Swathing"/>
-		<text name="tooltip_tipanywhere_COMBINESWATH" text="Allow combine harvester swaths on unowned land."/>
-		
-		<text name="setting_tipanywhere_CULTIVATOR" text="Cultivating"/>
-		<text name="tooltip_tipanywhere_CULTIVATOR" text="Allow cultivators to operate on unowned land."/>
-		
-		<text name="setting_tipanywhere_CUTTER" text="Forage Harvesting"/>
-		<text name="tooltip_tipanywhere_CUTTER" text="Allow forage harvesters to operate on unowned land."/>
-		
-		<text name="setting_tipanywhere_FORAGEWAGON" text="Forage Wagon"/>
-		<text name="tooltip_tipanywhere_FORAGEWAGON" text="Allow collecting loose materials with a forage wagon on unowned land."/>
-		
-		<text name="setting_tipanywhere_FRUITPREPARER" text="Pruning"/>
-		<text name="tooltip_tipanywhere_FRUITPREPARER" text="Allow pruning of vine crops on unowned land."/>
-		
-		<text name="setting_tipanywhere_MULCHER" text="Mulching"/>
-		<text name="tooltip_tipanywhere_MULCHER" text="Allow mulchers to operate on unowned land."/>
-		
-		<text name="setting_tipanywhere_MOWER" text="Mowing"/>
-		<text name="tooltip_tipanywhere_MOWER" text="Allow mowing grass on unowned land."/>
-		
-		<text name="setting_tipanywhere_PLOW" text="Ploughing"/>
-		<text name="tooltip_tipanywhere_PLOW" text="Allow ploughs to operate on unowned land."/>
-		
-		<text name="setting_tipanywhere_RIDGEMARKER" text="Ridge Marking"/>
-		<text name="tooltip_tipanywhere_RIDGEMARKER" text="Allow ridge marking on unowned land."/>
-		
-		<text name="setting_tipanywhere_ROLLER" text="Stone Rolling"/>
-		<text name="tooltip_tipanywhere_ROLLER" text="Allow rollers to operate on unowned land."/>
-		
-		<text name="setting_tipanywhere_SALTSPREADER" text="Salt Spreading"/>
-		<text name="tooltip_tipanywhere_SALTSPREADER" text="Allow salt spreaders to operate on unowned land."/>
-		
-		<text name="setting_tipanywhere_SOWINGMACHINE" text="Sowing"/>
-		<text name="tooltip_tipanywhere_SOWINGMACHINE" text="Allow sowing or planting of crops on unowned land."/>
-		
-		<text name="setting_tipanywhere_SPRAYER" text="Spraying"/>
-		<text name="tooltip_tipanywhere_SPRAYER" text="Allow spraying of fertiliser or herbicide on unowned land."/>
-		
-		<text name="setting_tipanywhere_STONEPICKER" text="Stone Picking"/>
-		<text name="tooltip_tipanywhere_STONEPICKER" text="Allow stone pickers to operate on unowned land."/>
-		
-		<text name="setting_tipanywhere_STUMPCUTTER" text="Stump Cutting"/>
-		<text name="tooltip_tipanywhere_STUMPCUTTER" text="Allow stump cutters to operate on unowned land."/>
-		
-		<text name="setting_tipanywhere_TEDDER" text="Tedding"/>
-		<text name="tooltip_tipanywhere_TEDDER" text="Allow tedders to operate on unowned land."/>
-		
-		<text name="setting_tipanywhere_WEEDER" text="Weeding"/>
-		<text name="tooltip_tipanywhere_WEEDER" text="Allow weeders to operate on unowned land."/>
-		
-		<text name="setting_tipanywhere_WINDROWER" text="Windrowing"/>
-		<text name="tooltip_tipanywhere_WINDROWER" text="Allow windrowers to operate on unowned land."/>
-		
-		<text name="setting_tipanywhere_DEFAULT" text="Default"/>
-		<text name="tooltip_tipanywhere_DEFAULT" text="Allow default work area type on unowned land."/>
-		
-		<text name="setting_tipanywhere_AUXILIARY" text="Auxiliary"/>
-		<text name="tooltip_tipanywhere_AUXILIARY" text="Allow the auxiliary work area type on unowned land."/>
 
-    </texts>
+		<text name="setting_tipanywhere_BALER" text="Belowanie"/>
+		<text name="tooltip_tipanywhere_BALER" text="Pozwól belować na nieposiadanej ziemi."/>
+
+		<text name="setting_tipanywhere_COMBINECHOPPER" text="Zbiór plonów"/>
+		<text name="tooltip_tipanywhere_COMBINECHOPPER" text="Pozwól kombajnom zbierać plony na nieposiadanej ziemi."/>
+
+		<text name="setting_tipanywhere_COMBINESWATH" text="Pokosowanie"/>
+		<text name="tooltip_tipanywhere_COMBINESWATH" text="Pozwól kombajnom pozostawiać pokosy na nieposiadanej ziemi."/>
+
+		<text name="setting_tipanywhere_CULTIVATOR" text="Kultywowanie"/>
+		<text name="tooltip_tipanywhere_CULTIVATOR" text="Pozwól kultywować na nieposiadanej ziemi."/>
+
+		<text name="setting_tipanywhere_CUTTER" text="Sieczka"/>
+		<text name="tooltip_tipanywhere_CUTTER" text="Pozwól sieczkarniom działać na nieposiadanej ziemi."/>
+
+		<text name="setting_tipanywhere_FORAGEWAGON" text="Przyczepa samozbierająca"/>
+		<text name="tooltip_tipanywhere_FORAGEWAGON" text="Pozwól zbierać sypkie materiały za pomocą przyczepy samozbierającej na nieposiadanej ziemi."/>
+
+		<text name="setting_tipanywhere_FRUITPREPARER" text="Przycinanie"/>
+		<text name="tooltip_tipanywhere_FRUITPREPARER" text="Pozwól przycinać rośliny winorośli na nieposiadanej ziemi."/>
+
+		<text name="setting_tipanywhere_MULCHER" text="Mulczowanie"/>
+		<text name="tooltip_tipanywhere_MULCHER" text="Pozwól mulczować na nieposiadanej ziemi."/>
+
+		<text name="setting_tipanywhere_MOWER" text="Koszenie"/>
+		<text name="tooltip_tipanywhere_MOWER" text="Pozwól kosić trawę na nieposiadanej ziemi."/>
+
+		<text name="setting_tipanywhere_PLOW" text="Orka"/>
+		<text name="tooltip_tipanywhere_PLOW" text="Pozwól wykonywać orkę na nieposiadanej ziemi."/>
+
+		<text name="setting_tipanywhere_RIDGEMARKER" text="Znakowanie ścieżki"/>
+		<text name="tooltip_tipanywhere_RIDGEMARKER" text="Pozwól znakować ścieżki na nieposiadanej ziemi."/>
+
+		<text name="setting_tipanywhere_ROLLER" text="Wałowanie"/>
+		<text name="tooltip_tipanywhere_ROLLER" text="Pozwól wałować na nieposiadanej ziemi."/>
+
+		<text name="setting_tipanywhere_SALTSPREADER" text="Rozsiewanie soli"/>
+		<text name="tooltip_tipanywhere_SALTSPREADER" text="Pozwól rozsiewać sól na nieposiadanej ziemi."/>
+
+		<text name="setting_tipanywhere_SOWINGMACHINE" text="Siew"/>
+		<text name="tooltip_tipanywhere_SOWINGMACHINE" text="Pozwól siać lub sadzić rośliny na nieposiadanej ziemi."/>
+
+		<text name="setting_tipanywhere_SPRAYER" text="Opryskiwanie"/>
+		<text name="tooltip_tipanywhere_SPRAYER" text="Pozwól opryskiwać nawozem lub herbicydem na nieposiadanej ziemi."/>
+
+		<text name="setting_tipanywhere_STONEPICKER" text="Zbieranie Kamieni"/>
+		<text name="tooltip_tipanywhere_STONEPICKER" text="Pozwól zbierać kamienie na nieposiadanej ziemi."/>
+
+		<text name="setting_tipanywhere_STUMPCUTTER" text="Usuwanie pni"/>
+		<text name="tooltip_tipanywhere_STUMPCUTTER" text="Pozwól usuwać pnie drzew na nieposiadanej ziemi."/>
+
+		<text name="setting_tipanywhere_TEDDER" text="Przetrząsanie"/>
+		<text name="tooltip_tipanywhere_TEDDER" text="Pozwól przetrząsać trawę na nieposiadanej ziemi."/>
+
+		<text name="setting_tipanywhere_WEEDER" text="Odchwaszczanie"/>
+		<text name="tooltip_tipanywhere_WEEDER" text="Pozwól odchwaszczać na nieposiadanej ziemi."/>
+
+		<text name="setting_tipanywhere_WINDROWER" text="Zgrabianie"/>
+		<text name="tooltip_tipanywhere_WINDROWER" text="Pozwól zgrabiać na nieposiadanej ziemi."/>
+
+		<text name="setting_tipanywhere_DEFAULT" text="Domyślne"/>
+		<text name="tooltip_tipanywhere_DEFAULT" text="Pozwól domyślnym typom obszarów roboczych działać na nieposiadanej ziemi."/>
+
+		<text name="setting_tipanywhere_AUXILIARY" text="Pomocnicze"/>
+		<text name="tooltip_tipanywhere_AUXILIARY" text="Pozwól pomocniczym typom obszarów roboczych działać na nieposiadanej ziemi."/>
+		
+		<text name="setting_tipanywhere_HAULMDROP" text="Zrzut naci"/>
+		<text name="tooltip_tipanywhere_HAULMDROP" text="Zezwól na zrzucanie naci na cudzym terenie."/>
+		
+		<text name="setting_tipanywhere_PLOWSHARE" text="Lemiesz"/>
+		<text name="tooltip_tipanywhere_PLOWSHARE" text="Zezwól na pracę lemiesza na cudzym terenie."/>
+		
+		<text name="setting_tipanywhere_RIDGEFORMER" text="Formowanie redlin"/>
+		<text name="tooltip_tipanywhere_RIDGEFORMER" text="Zezwól na formowanie redlin na cudzym terenie."/>
+
+	</texts>
 </l10n>

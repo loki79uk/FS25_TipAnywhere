@@ -69,6 +69,15 @@
 		
 		<text name="setting_tipanywhere_AUXILIARY" text="Вспомогательный"/>
 		<text name="tooltip_tipanywhere_AUXILIARY" text="Разрешить вспомогательный тип рабочей зоны на чужой земле."/>
+		
+		<text name="setting_tipanywhere_HAULMDROP" text="Сбрасывание ботвы"/>
+		<text name="tooltip_tipanywhere_HAULMDROP" text="Разрешить сбрасывать ботву на чужой земле."/>
+		
+		<text name="setting_tipanywhere_PLOWSHARE" text="Лемех плуга"/>
+		<text name="tooltip_tipanywhere_PLOWSHARE" text="Разрешить работу лемеха плуга на чужой земле."/>
+		
+		<text name="setting_tipanywhere_RIDGEFORMER" text="Формирователь гребней"/>
+		<text name="tooltip_tipanywhere_RIDGEFORMER" text="Разрешить формирование гребней на чужой земле."/>
 
     </texts>
 </l10n>

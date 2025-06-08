@@ -68,6 +68,15 @@
 		
 		<text name="setting_tipanywhere_AUXILIARY" text="Auxiliaires"/>
 		<text name="tooltip_tipanywhere_AUXILIARY" text="Autorise les travaux auxiliaires sur des terrains non possédés."/>
+		
+		<text name="setting_tipanywhere_HAULMDROP" text="Dépose de fanes"/>
+		<text name="tooltip_tipanywhere_HAULMDROP" text="Autoriser la dépose de fanes sur les terres d'autrui."/>
+		
+		<text name="setting_tipanywhere_PLOWSHARE" text="Soc de charrue"/>
+		<text name="tooltip_tipanywhere_PLOWSHARE" text="Autoriser les zones de travail du soc de charrue sur les terres d'autrui."/>
+		
+		<text name="setting_tipanywhere_RIDGEFORMER" text="Buttoir"/>
+		<text name="tooltip_tipanywhere_RIDGEFORMER" text="Autoriser la formation de buttes sur les terres d'autrui."/>
 
     </texts>
 </l10n>
