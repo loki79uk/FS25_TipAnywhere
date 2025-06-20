@@ -265,6 +265,26 @@ function TipAnywhere.readSettings()
 	
 end
 
+-- DETECT PLACEABLES FROM TIPPING CALLBACK
+function TipAnywhere:tipLocationCallback(hitObjectId, x, y, z, distance)
+
+	if hitObjectId ~= 0 and hitObjectId ~= nil then
+		if getHasClassId(hitObjectId, ClassIds.SHAPE) then
+			if getRigidBodyType(hitObjectId) == RigidBodyType.STATIC then
+			
+				local object = g_currentMission:getNodeObject(hitObjectId)
+				if object:isa(Placeable) then
+					local storeItem = g_storeManager:getItemByXMLFilename(object.configFileName)
+					if storeItem and storeItem.categoryName == 'SILOS' then
+						TipAnywhere.tipToSilo = true
+					end
+				end
+				
+			end
+		end
+	end
+end
+
 -- GAME FUNCTIONS
 function TipAnywhere:shovelGetCanShovelAtPosition(superFunc, shovelNode)
 	if shovelNode == nil then
@@ -280,16 +300,25 @@ function TipAnywhere:dischargeableGetCanDischargeToLand(superFunc, dischargeNode
 
 	if g_densityMapHeightManager.tipCollisionMap ~= nil then
 
+		local d = 5
+		local info = dischargeNode.info
+		local x, y, z = getWorldTranslation(info.node)
+		TipAnywhere.tipToSilo = false
+		
 		if TipAnywhere.tip then
+			local collisionMask = CollisionFlag.STATIC_OBJECT + CollisionFlag.BUILDING
+			local hitCount = overlapBox(x, y-d, z, 0, 0, 0, d, d, d, "tipLocationCallback", TipAnywhere, collisionMask, true, true, true, true)
+			-- DebugUtil.drawOverlapBox(x, y-d, z, 0, 0, 0, d, d, d)
+		end
+		
+		if TipAnywhere.tip and not TipAnywhere.tipToSilo then
 			g_densityMapHeightManager.tipCollisionMask = CollisionFlag.PLAYER
 		else
 			g_densityMapHeightManager.tipCollisionMask = CollisionFlag.GROUND_TIP_BLOCKING
 		end
 		
-		local d = 5
-		local info = dischargeNode.info
-		local x, _, z = getWorldTranslation(info.node)
 		g_densityMapHeightManager:updateCollisionMap(x-d, z-d, x+d, z+d)
+		
 	end
 		
 	return TipAnywhere.tip
