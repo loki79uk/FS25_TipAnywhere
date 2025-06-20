@@ -273,7 +273,7 @@ function TipAnywhere:tipLocationCallback(hitObjectId, x, y, z, distance)
 			if getRigidBodyType(hitObjectId) == RigidBodyType.STATIC then
 			
 				local object = g_currentMission:getNodeObject(hitObjectId)
-				if object:isa(Placeable) then
+				if object and object:isa(Placeable) then
 					local storeItem = g_storeManager:getItemByXMLFilename(object.configFileName)
 					if storeItem and storeItem.categoryName == 'SILOS' then
 						TipAnywhere.tipToSilo = true
