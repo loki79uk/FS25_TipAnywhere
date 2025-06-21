@@ -275,8 +275,8 @@ function TipAnywhere:tipLocationCallback(hitObjectId, x, y, z, distance)
 				local object = g_currentMission:getNodeObject(hitObjectId)
 				if object and object:isa(Placeable) then
 					local storeItem = g_storeManager:getItemByXMLFilename(object.configFileName)
-					if storeItem and storeItem.categoryName == 'SILOS' then
-						TipAnywhere.tipToSilo = true
+					if storeItem and storeItem.categoryName ~= 'SHEDS' then
+						TipAnywhere.tipToBuilding = true
 					end
 				end
 				
@@ -303,7 +303,7 @@ function TipAnywhere:dischargeableGetCanDischargeToLand(superFunc, dischargeNode
 		local d = 5
 		local info = dischargeNode.info
 		local x, y, z = getWorldTranslation(info.node)
-		TipAnywhere.tipToSilo = false
+		TipAnywhere.tipToBuilding = false
 		
 		if TipAnywhere.tip then
 			local collisionMask = CollisionFlag.STATIC_OBJECT + CollisionFlag.BUILDING
@@ -311,7 +311,7 @@ function TipAnywhere:dischargeableGetCanDischargeToLand(superFunc, dischargeNode
 			-- DebugUtil.drawOverlapBox(x, y-d, z, 0, 0, 0, d, d, d)
 		end
 		
-		if TipAnywhere.tip and not TipAnywhere.tipToSilo then
+		if TipAnywhere.tip and not TipAnywhere.tipToBuilding then
 			g_densityMapHeightManager.tipCollisionMask = CollisionFlag.PLAYER
 		else
 			g_densityMapHeightManager.tipCollisionMask = CollisionFlag.GROUND_TIP_BLOCKING
