@@ -1,82 +1,82 @@
 <?xml version="1.0" encoding="utf-8" standalone="no" ?>
 <l10n>
 	<texts>
-		<text name="menu_TipAnywhere_TITLE" text="TIP ANYWHERE"/>
+		<text name="menu_TipAnywhere_TITLE" text="VYSYPÁVAT KDEKOLIV"/>
 		
-		<text name="setting_tipanywhere_BALER" text="Baling"/>
-		<text name="tooltip_tipanywhere_BALER" text="Allow balers to operate on unowned land."/>
+		<text name="setting_tipanywhere_BALER" text="Lisování"/>
+		<text name="tooltip_tipanywhere_BALER" text="Povolit lisům pracovat na nevlastněném pozemku."/>
 		
-		<text name="setting_tipanywhere_COMBINECHOPPER" text="Harvesting"/>
-		<text name="tooltip_tipanywhere_COMBINECHOPPER" text="Allow combine harvesters to operate on unowned land."/>
+		<text name="setting_tipanywhere_COMBINECHOPPER" text="Sklízení"/>
+		<text name="tooltip_tipanywhere_COMBINECHOPPER" text="Povolit sklízecím mlátičkám pracovat na nevlastněném pozemku."/>
 		
-		<text name="setting_tipanywhere_COMBINESWATH" text="Swathing"/>
-		<text name="tooltip_tipanywhere_COMBINESWATH" text="Allow combine harvester swaths on unowned land."/>
+		<text name="setting_tipanywhere_COMBINESWATH" text="Řádkování"/>
+		<text name="tooltip_tipanywhere_COMBINESWATH" text="Povolit tvorbu řádků od sklízecích mlátiček na nevlastněném pozemku."/>
 		
-		<text name="setting_tipanywhere_CULTIVATOR" text="Cultivating"/>
-		<text name="tooltip_tipanywhere_CULTIVATOR" text="Allow cultivators to operate on unowned land."/>
+		<text name="setting_tipanywhere_CULTIVATOR" text="Kultivace"/>
+		<text name="tooltip_tipanywhere_CULTIVATOR" text="Povolit kultivátorům pracovat na nevlastněném pozemku."/>
 		
-		<text name="setting_tipanywhere_CUTTER" text="Forage Harvesting"/>
-		<text name="tooltip_tipanywhere_CUTTER" text="Allow forage harvesters to operate on unowned land."/>
+		<text name="setting_tipanywhere_CUTTER" text="Sklizeň řezanky"/>
+		<text name="tooltip_tipanywhere_CUTTER" text="Povolit sklízecím řezačkám pracovat na nevlastněném pozemku."/>
 		
-		<text name="setting_tipanywhere_FORAGEWAGON" text="Forage Wagon"/>
-		<text name="tooltip_tipanywhere_FORAGEWAGON" text="Allow collecting loose materials with a forage wagon on unowned land."/>
+		<text name="setting_tipanywhere_FORAGEWAGON" text="Sběrací vůz"/>
+		<text name="tooltip_tipanywhere_FORAGEWAGON" text="Povolit sběr volných materiálů sběracím vozem na nevlastněném pozemku."/>
 		
-		<text name="setting_tipanywhere_FRUITPREPARER" text="Pruning"/>
-		<text name="tooltip_tipanywhere_FRUITPREPARER" text="Allow pruning of vine crops on unowned land."/>
+		<text name="setting_tipanywhere_FRUITPREPARER" text="Prořezávání"/>
+		<text name="tooltip_tipanywhere_FRUITPREPARER" text="Povolit prořezávání vinné révy na nevlastněném pozemku."/>
 		
-		<text name="setting_tipanywhere_MULCHER" text="Mulching"/>
-		<text name="tooltip_tipanywhere_MULCHER" text="Allow mulchers to operate on unowned land."/>
+		<text name="setting_tipanywhere_MULCHER" text="Mulčování"/>
+		<text name="tooltip_tipanywhere_MULCHER" text="Povolit mulčovačům pracovat na nevlastněném pozemku."/>
 		
-		<text name="setting_tipanywhere_MOWER" text="Mowing"/>
-		<text name="tooltip_tipanywhere_MOWER" text="Allow mowing grass on unowned land."/>
+		<text name="setting_tipanywhere_MOWER" text="Sečení"/>
+		<text name="tooltip_tipanywhere_MOWER" text="Povolit sečení trávy na nevlastněném pozemku."/>
 		
-		<text name="setting_tipanywhere_PLOW" text="Ploughing"/>
-		<text name="tooltip_tipanywhere_PLOW" text="Allow ploughs to operate on unowned land."/>
+		<text name="setting_tipanywhere_PLOW" text="Orba"/>
+		<text name="tooltip_tipanywhere_PLOW" text="Povolit pluhům pracovat na nevlastněném pozemku."/>
 		
-		<text name="setting_tipanywhere_RIDGEMARKER" text="Ridge Marking"/>
-		<text name="tooltip_tipanywhere_RIDGEMARKER" text="Allow ridge marking on unowned land."/>
+		<text name="setting_tipanywhere_RIDGEMARKER" text="Znamenáky"/>
+		<text name="tooltip_tipanywhere_RIDGEMARKER" text="Povolit použití znamenáku na nevlastněném pozemku."/>
 		
-		<text name="setting_tipanywhere_ROLLER" text="Stone Rolling"/>
-		<text name="tooltip_tipanywhere_ROLLER" text="Allow rollers to operate on unowned land."/>
+		<text name="setting_tipanywhere_ROLLER" text="Válcování kamenů"/>
+		<text name="tooltip_tipanywhere_ROLLER" text="Povolit válcům pracovat na nevlastněném pozemku."/>
 		
-		<text name="setting_tipanywhere_SALTSPREADER" text="Salt Spreading"/>
-		<text name="tooltip_tipanywhere_SALTSPREADER" text="Allow salt spreaders to operate on unowned land."/>
+		<text name="setting_tipanywhere_SALTSPREADER" text="Sypání soli"/>
+		<text name="tooltip_tipanywhere_SALTSPREADER" text="Povolit sypačům soli pracovat na nevlastněném pozemku."/>
 		
-		<text name="setting_tipanywhere_SOWINGMACHINE" text="Sowing"/>
-		<text name="tooltip_tipanywhere_SOWINGMACHINE" text="Allow sowing or planting of crops on unowned land."/>
+		<text name="setting_tipanywhere_SOWINGMACHINE" text="Setí"/>
+		<text name="tooltip_tipanywhere_SOWINGMACHINE" text="Povolit setí nebo sázení plodin na nevlastněném pozemku."/>
 		
-		<text name="setting_tipanywhere_SPRAYER" text="Spraying"/>
-		<text name="tooltip_tipanywhere_SPRAYER" text="Allow spraying of fertiliser or herbicide on unowned land."/>
+		<text name="setting_tipanywhere_SPRAYER" text="Postřikování"/>
+		<text name="tooltip_tipanywhere_SPRAYER" text="Povolit aplikaci postřiků, hnojiv nebo herbicidů na nevlastněném pozemku."/>
 		
-		<text name="setting_tipanywhere_STONEPICKER" text="Stone Picking"/>
-		<text name="tooltip_tipanywhere_STONEPICKER" text="Allow stone pickers to operate on unowned land."/>
+		<text name="setting_tipanywhere_STONEPICKER" text="Sběr kamenů"/>
+		<text name="tooltip_tipanywhere_STONEPICKER" text="Povolit sběračům kamenů pracovat na nevlastněném pozemku."/>
 		
-		<text name="setting_tipanywhere_STUMPCUTTER" text="Stump Cutting"/>
-		<text name="tooltip_tipanywhere_STUMPCUTTER" text="Allow stump cutters to operate on unowned land."/>
+		<text name="setting_tipanywhere_STUMPCUTTER" text="Frézování pařezů"/>
+		<text name="tooltip_tipanywhere_STUMPCUTTER" text="Povolit frézám na pařezy pracovat na nevlastněném pozemku."/>
 		
-		<text name="setting_tipanywhere_TEDDER" text="Tedding"/>
-		<text name="tooltip_tipanywhere_TEDDER" text="Allow tedders to operate on unowned land."/>
+		<text name="setting_tipanywhere_TEDDER" text="Obracení"/>
+		<text name="tooltip_tipanywhere_TEDDER" text="Povolit obracečům pracovat na nevlastněném pozemku."/>
 		
-		<text name="setting_tipanywhere_WEEDER" text="Weeding"/>
-		<text name="tooltip_tipanywhere_WEEDER" text="Allow weeders to operate on unowned land."/>
+		<text name="setting_tipanywhere_WEEDER" text="Pletí"/>
+		<text name="tooltip_tipanywhere_WEEDER" text="Povolit plečkám pracovat na nevlastněném pozemku."/>
 		
-		<text name="setting_tipanywhere_WINDROWER" text="Windrowing"/>
-		<text name="tooltip_tipanywhere_WINDROWER" text="Allow windrowers to operate on unowned land."/>
+		<text name="setting_tipanywhere_WINDROWER" text="Shrnování"/>
+		<text name="tooltip_tipanywhere_WINDROWER" text="Povolit shrnovačům pracovat na nevlastněném pozemku."/>
 		
-		<text name="setting_tipanywhere_DEFAULT" text="Default"/>
-		<text name="tooltip_tipanywhere_DEFAULT" text="Allow default work area type on unowned land."/>
+		<text name="setting_tipanywhere_DEFAULT" text="Výchozí"/>
+		<text name="tooltip_tipanywhere_DEFAULT" text="Povolit výchozí typ pracovní oblasti na nevlastněném pozemku."/>
 		
-		<text name="setting_tipanywhere_AUXILIARY" text="Auxiliary"/>
-		<text name="tooltip_tipanywhere_AUXILIARY" text="Allow the auxiliary work area type on unowned land."/>
+		<text name="setting_tipanywhere_AUXILIARY" text="Pomocný"/>
+		<text name="tooltip_tipanywhere_AUXILIARY" text="Povolit pomocný typ pracovní oblasti na nevlastněném pozemku."/>
 		
-		<text name="setting_tipanywhere_HAULMDROP" text="Haulm Drop"/>
-		<text name="tooltip_tipanywhere_HAULMDROP" text="Allow dropping of haulm on unowned land."/>
+		<text name="setting_tipanywhere_HAULMDROP" text="Shazování natě"/>
+		<text name="tooltip_tipanywhere_HAULMDROP" text="Povolit shazování natě na nevlastněném pozemku."/>
 		
-		<text name="setting_tipanywhere_PLOWSHARE" text="Plough Share"/>
-		<text name="tooltip_tipanywhere_PLOWSHARE" text="Allow plowshare work areas on unowned land."/>
+		<text name="setting_tipanywhere_PLOWSHARE" text="Radlice pluhu"/>
+		<text name="tooltip_tipanywhere_PLOWSHARE" text="Povolit pracovní oblasti radlice pluhu na nevlastněném pozemku."/>
 		
-		<text name="setting_tipanywhere_RIDGEFORMER" text="Ridge Former"/>
-		<text name="tooltip_tipanywhere_RIDGEFORMER" text="Allow ridge forming on unowned land."/>
+		<text name="setting_tipanywhere_RIDGEFORMER" text="Tvořič hrůbků"/>
+		<text name="tooltip_tipanywhere_RIDGEFORMER" text="Povolit tvorbu hrůbků na nevlastněném pozemku."/>
 
     </texts>
 </l10n>
