@@ -178,11 +178,11 @@ end
 if sectionTitle then
 	sectionTitle:setText(g_i18n:getText("menu_TipAnywhere_TITLE"))
 else
-	local title = TextElement.new()
-	title:applyProfile("fs25_settingsSectionHeader", true)
-	title:setText(g_i18n:getText("menu_TipAnywhere_TITLE"))
-	title.name = "sectionHeader"
-	settingsLayout:addElement(title)
+	sectionTitle = TextElement.new()
+	sectionTitle:applyProfile("fs25_settingsSectionHeader", true)
+	sectionTitle:setText(g_i18n:getText("menu_TipAnywhere_TITLE"))
+	sectionTitle.name = "sectionHeader"
+	settingsLayout:addElement(sectionTitle)
 end
 
 sectionTitle.focusId = FocusManager:serveAutoFocusId()
